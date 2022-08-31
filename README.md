@@ -10,8 +10,8 @@ Welcome to CS 110. I look forward to working with you this semester. This is you
 
 ## Student Info - MUST BE COMPLETED
 
-Preferred Name:
+Preferred Name: Josh Janason
 
-Discord username:
+Discord username: Joshua Janason #9548
 
-REPL url:
+REPL url: https://github.com/bucs110FALL22/portfolio-JoshuaJanason.git
