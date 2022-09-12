@@ -14,13 +14,6 @@ CIRCLE_DEG = 360
 
 for c in colors:
    my_turtle.color(c)
-for i in [0]*sides
+for i in [0]sides
 my_turtle.left(CIRCLE_DEG / sides)
 my_turtle.forward(length)
-
-
-
-
-wn.exitonclick()
-window = turtle.Screen
-turtle.Screen().exitonclick()
