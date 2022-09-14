@@ -14,4 +14,4 @@ Preferred Name: Josh Janason
 
 Discord username: Joshua Janason #9548
 
-REPL url: https://github.com/bucs110FALL22/portfolio-JoshuaJanason.git
+REPL url: https://replit.com/join/hznqixioma-joshuajanason
