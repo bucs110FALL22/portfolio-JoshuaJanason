@@ -23,6 +23,14 @@
         "version": 2941,
         "index": 3042
       }
+    ],
+    "ch04/exercises/coinflip.py": [
+      {
+        "id": "c68a1c16-e5e1-4dce-8381-f2abf501ba4e",
+        "line": 6,
+        "version": 745,
+        "index": 55
+      }
     ]
   }
 }
