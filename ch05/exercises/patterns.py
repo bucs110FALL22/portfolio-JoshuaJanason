@@ -12,7 +12,7 @@ star_pyramid()
 def rstar_pyramid():
     print("Enter how many lines of stars you would like")
     r_rows = int(input(":"))
-    for i in range(1, r_rows + 1):      
+    for i in range(r_rows, 0, - 1):      
       print("*" * i)
 
 rstar_pyramid()
