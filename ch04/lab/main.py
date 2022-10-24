@@ -82,3 +82,15 @@ for i in range(10):
   print(is_in_circle)
   pygame.time.wait(500)
 
+#Part C
+box_width = width / 3
+box_height = height / 3
+
+red_box = pygame.Rect(0, 0, box_width, box_height)
+blue_box = pygame.Rect(0, 0, box_width, box_height)
+blue_box.topleft = red_box.topright
+red_button = pygame.draw.rect(screen, "red", red_box)
+blue_button = pygame.draw.rect(screen, "blue", blue_box)
+
+
+pygame.display.flip()
